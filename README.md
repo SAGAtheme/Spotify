@@ -9,8 +9,8 @@ This theme is dependent on [Spicetify](https://spicetify.app/). Follow [the inst
 
 ```
 git clone --depth=1 https://github.com/SAGAtheme/Spotify.git $HOME/.config/spicetify/Themes/SAGA
-Spicetify config current_theme SAGA
-Spicetify apply
+spicetify config current_theme SAGA
+spicetify apply
 ```
 
 ## License
